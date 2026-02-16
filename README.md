@@ -1,2 +1,1 @@
-# keys
-My public keys
+# My rage/age public key.
